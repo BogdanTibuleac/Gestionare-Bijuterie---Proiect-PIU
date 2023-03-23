@@ -1,0 +1,13 @@
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\bin\Debug\MagazinBijuterii.exe.config
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\bin\Debug\MagazinBijuterii.exe
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\bin\Debug\MagazinBijuterii.pdb
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\bin\Debug\LibrarieModele.dll
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\bin\Debug\NivelAccesDate.dll
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\bin\Debug\LibrarieModele.pdb
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\bin\Debug\NivelAccesDate.pdb
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\obj\Debug\MagazinBijuterii.csproj.AssemblyReference.cache
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\obj\Debug\MagazinBijuterii.csproj.SuggestedBindingRedirects.cache
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\obj\Debug\MagazinBijuterii.csproj.CoreCompileInputs.cache
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\obj\Debug\MagazinBijuterii.csproj.CopyComplete
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\obj\Debug\MagazinBijuterii.exe
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\MagazinBijuterii\obj\Debug\MagazinBijuterii.pdb

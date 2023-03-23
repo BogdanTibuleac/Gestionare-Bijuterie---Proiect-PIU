@@ -1,0 +1,9 @@
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\bin\Debug\LibrarieModele.dll
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\bin\Debug\LibrarieModele.pdb
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.AssemblyReference.cache
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+F:\Csharp\ProiectBijuterie\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
