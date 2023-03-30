@@ -1,0 +1,15 @@
+F:\Csharp\Exercitii\exercitiu\exercitiu\bin\Debug\net6.0\exercitiu.exe
+F:\Csharp\Exercitii\exercitiu\exercitiu\bin\Debug\net6.0\exercitiu.deps.json
+F:\Csharp\Exercitii\exercitiu\exercitiu\bin\Debug\net6.0\exercitiu.runtimeconfig.json
+F:\Csharp\Exercitii\exercitiu\exercitiu\bin\Debug\net6.0\exercitiu.dll
+F:\Csharp\Exercitii\exercitiu\exercitiu\bin\Debug\net6.0\exercitiu.pdb
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.csproj.AssemblyReference.cache
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.GeneratedMSBuildEditorConfig.editorconfig
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.AssemblyInfoInputs.cache
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.AssemblyInfo.cs
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.csproj.CoreCompileInputs.cache
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.dll
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\refint\exercitiu.dll
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.pdb
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\exercitiu.genruntimeconfig.cache
+F:\Csharp\Exercitii\exercitiu\exercitiu\obj\Debug\net6.0\ref\exercitiu.dll

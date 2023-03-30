@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "exercitiu": {
+      "commandName": "Project",
+      "commandLineArgs": "cuvant energie pui"
+    }
+  }
+}
