@@ -1,0 +1,6 @@
+C:\Users\Bogdan\Desktop\MagazinBijuterii\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\Bogdan\Desktop\MagazinBijuterii\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\Bogdan\Desktop\MagazinBijuterii\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\MagazinBijuterii\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\MagazinBijuterii\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\Bogdan\Desktop\MagazinBijuterii\LibrarieModele\obj\Debug\LibrarieModele.pdb

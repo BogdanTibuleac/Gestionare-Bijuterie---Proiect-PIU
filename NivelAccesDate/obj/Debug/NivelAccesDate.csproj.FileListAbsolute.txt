@@ -1,0 +1,9 @@
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\bin\Debug\NivelAccesDate.dll
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\bin\Debug\NivelAccesDate.pdb
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\bin\Debug\LibrarieModele.dll
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\bin\Debug\LibrarieModele.pdb
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.AssemblyReference.cache
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.dll
+C:\Users\Bogdan\Desktop\MagazinBijuterii\NivelAccesDate\obj\Debug\NivelAccesDate.pdb
