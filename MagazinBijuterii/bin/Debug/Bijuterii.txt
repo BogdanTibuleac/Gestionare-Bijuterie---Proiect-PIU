@@ -1,0 +1,4 @@
+1,Pandorra,aur,4,1,0,2600
+2,StilBiju,aur,6,0,4,800
+3,Teilor,aur,1,2,3,5000
+4,Pandorra,argint,10,8,1,3300

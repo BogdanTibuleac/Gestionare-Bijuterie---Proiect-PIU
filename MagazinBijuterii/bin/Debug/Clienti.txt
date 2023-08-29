@@ -1,0 +1,10 @@
+7896541230123,Mihai,Amariei,0741258963,bratara aur,8/28/2023 7:18:11 PM
+7896321450123,Ana,Popescu,0745632101,colier cristale,8/28/2023 7:19:21 PM
+7896541230147,Ionescu,Mihaela,0789654123,cercei perle,8/28/2023 10:37:09 PM
+7896541230258,Ema,Lucescu,0732147850,colier argint,8/28/2023 10:43:57 PM
+7896541478523,Robert,Mihai,0755555888,bratara aur,8/28/2023 10:48:35 PM
+,Oana,Pascut,0799996633,colier safir,8/28/2023 10:53:50 PM
+,Vasile,Arghir,0766852357,bratara argint,8/28/2023 10:59:07 PM
+,Crina,Stela,0741258852,pandantiv,8/28/2023 11:02:57 PM
+,David,Corneliu,0744158963,inel aur safir,8/29/2023 12:15:27 AM
+9632587412589,Stefan,Darius,0777555222,bratara aur,8/29/2023 10:57:02 AM
