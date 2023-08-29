@@ -1,5 +1,0 @@
-inel;plumb;999;
-bratara;argint;8000;
-pandantiv;aur;800;
-lant;aur;1299;
-pandantiv;argint;750;
