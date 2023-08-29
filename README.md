@@ -1,4 +1,6 @@
-# PIU_Proiect
+# Proiect PIU
+Gestionare bijuterie
+
 Aceasta aplicatie dezvoltată în C# a fost creata pentru administrarea eficientă a unui magazin de bijuterii. Cu implementarea principiilor de POO în partea de back-end și utilizarea interfețelor WindowsForms din Visual Studio 2022 pentru front-end, proiectul aduce multiple funcționalități pentru gestionarea magazinului.
 <br>
 <br>
